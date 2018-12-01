@@ -1,3 +1,3 @@
 Hello Beautiful World!
 
-No these are MY changes!
+These are our changes!
